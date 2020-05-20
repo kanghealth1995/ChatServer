@@ -1,0 +1,5 @@
+/root/server/code/build/CMakeFiles/rebuild_cache.dir
+/root/server/code/build/CMakeFiles/edit_cache.dir
+/root/server/code/build/muduoCStest/CMakeFiles/rebuild_cache.dir
+/root/server/code/build/muduoCStest/CMakeFiles/edit_cache.dir
+/root/server/code/build/muduoCStest/CMakeFiles/server.dir
