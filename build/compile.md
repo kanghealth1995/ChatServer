@@ -1,0 +1,1 @@
+使用脚本AutoBuild.sh进行编译
